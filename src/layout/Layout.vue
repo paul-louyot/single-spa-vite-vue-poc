@@ -21,4 +21,5 @@ onMounted(() => {
 <template>
   <div>Layout app</div>
   <div id="home"></div>
+  <RouterView />
 </template>
